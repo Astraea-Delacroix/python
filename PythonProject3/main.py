@@ -1,0 +1,6 @@
+f=open(r"D:\python\test\note.txt","w",encoding="UTF-8")
+f.write("长春理工大学\n春明湖校区位置独特\n位于吉林省长春市米沙子镇")
+f.flush()
+f=open(r"D:\python\test\note.txt","r",encoding="UTF-8")
+result=f.read()
+print(result)

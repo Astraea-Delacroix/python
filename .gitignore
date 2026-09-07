@@ -1,0 +1,15 @@
+# Python cache
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# IDE
+.idea/
+**/.vscode/settings.json
+pycharm/
+
+# Windows
+Thumbs.db
+Desktop.ini
