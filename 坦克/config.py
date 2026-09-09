@@ -1,0 +1,18 @@
+"""
+游戏配置常量
+"""
+# 游戏常量
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+FPS = 60
+TILE_SIZE = 40
+
+# 颜色定义
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+YELLOW = (255, 255, 0)
+GRAY = (128, 128, 128)
+BROWN = (139, 69, 19)
